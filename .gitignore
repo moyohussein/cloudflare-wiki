@@ -1,5 +1,7 @@
 _archives/
 _staging/
+_site/
 .env.local
 node_modules/
 .DS_Store
+package-lock.json
